@@ -18,6 +18,6 @@ N/A
 
 ## License
 
-MIT license
+View licesen file
 
 ---
